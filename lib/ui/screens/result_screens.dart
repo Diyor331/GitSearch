@@ -105,7 +105,7 @@ class _ResultPageState extends State<ResultPage> {
           }
 
           return const Center(
-              child: Text("Ошибка загрузки,проверьте интернет"));
+              child: Text("Ошибка загрузки,проверьте интернет!"));
         },
       ),
     );
